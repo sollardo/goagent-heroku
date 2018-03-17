@@ -28,6 +28,7 @@ import struct
 import zlib
 import collections
 import Queue
+import os
 
 try:
     import socket
