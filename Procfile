@@ -1,1 +1,1 @@
-web: python ./goagent/server/php/index.py 3000
+web: python -m SimpleHTTPServer 5000
