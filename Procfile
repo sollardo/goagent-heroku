@@ -1,1 +1,1 @@
-web: pip install gevent && python goagent/server/php/index.py 3000
+web: pip install -r requirements.txt && python goagent/server/php/index.py 3000
