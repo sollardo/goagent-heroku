@@ -6,11 +6,8 @@ verify_ssl = true
 
 [packages]
 
-django = "*"
-gunicorn = "*"
-django-heroku = "*"
-
+gevent = "*"
 
 [requires]
 
-python_version = "3.6"
+python_version = "3.6.4"
